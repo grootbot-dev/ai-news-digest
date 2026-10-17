@@ -1,18 +1,18 @@
 # 🗓️ Top of the week
 
-Last 7 days up to 2026-10-16 (by publication date). [⬅️ Today](README.md)
+Last 7 days up to 2026-10-17 (by publication date). [⬅️ Today](README.md)
 
-![🗓️ Top of the week](comics/weekly-2026-10-16.jpg)
+![🗓️ Top of the week](comics/weekly-2026-10-17.jpg)
 
 📰 **TL;DR:** OmGithub: discover and play open-source AI projects instantly · FLUX 3 Image Klein: 5.6B open weights for text-to-image, editing, and layout boxes · OpenCode makes DeepSeek V4.1 Flash free (limited time, ~200K context on Zen) 🔥🤯
 
 1. <img src="cards/manual-omgithub.jpg" width="80" alt=""> **[OmGithub: discover and play open-source AI projects instantly](https://omgithub.com)** 🚀 Every open-source AI project, playable in one click. No git clone, no npm install, just vibes. This is the way 🫡
 2. <img src="cards/4pda-1112313-292.jpg" width="80" alt=""> **[FLUX 3 Image Klein: 5.6B open weights for text-to-image, editing, and layout boxes](https://4pda.to/forum/index.php?showtopic=1112313&view=findpost&p=145531159)** 🎨 Finally, FLUX 3 you can actually download. 5.6B, open weights, layout boxes — localbros rejoice 🔥
 3. <img src="cards/4pda-1077922-25621.jpg" width="80" alt=""> **[OpenCode makes DeepSeek V4.1 Flash free (limited time, ~200K context on Zen)](https://4pda.to/forum/index.php?showtopic=1077922&view=findpost&p=145520261)** 💸 DeepSeek V4.1 Flash went freemium on OpenCode. Grab it before the "limited time" ends 🏃‍♂️
-4. <img src="cards/4pda-1111449-1647.jpg" width="80" alt=""> **[Google Antigravity agent runs natively on Android](https://4pda.to/forum/index.php?showtopic=1111449&st=1640)** 📱 No PRoot, no QEMU. Absolute madlad 🤠
+4. <img src="cards/4pda-1111449-1649.jpg" width="80" alt=""> **[China drafts export controls on frontier AI models, agents and compute clusters](https://4pda.to/forum/index.php?showtopic=1111449&view=findpost&p=145543492)** 🇨🇳📦 Beijing puts frontier weights on the export list. Open-source carve-out is the whole ballgame, read the fine print before you panic 🧐
 5. <img src="cards/4pda-1077922-25583.jpg" width="80" alt=""> **[Cat Jam Free: stealth coding model on OpenCode Zen](https://4pda.to/forum/index.php?showtopic=1077922&view=findpost&p=145501804)** 🐱🎸 Free 262K coding stealth model just dropped on OpenCode Zen. Dev won't say who cooked it, rumor mill says Xiaomi MiMo — benchmarks or it didn't happen 👀
 6. <img src="cards/4pda-1077922-25617.jpg" width="80" alt=""> **[PS5LM Plus: Qwen 3.8 27B at ~20 tok/s on a jailbroken PS5's GPU](https://4pda.to/forum/index.php?showtopic=1077922&view=findpost&p=145518615)** 🎮 Your PS5 just became a 27B inference box. Jailbreak tax applies 💀
 7. <img src="cards/4pda-1123739-330.jpg" width="80" alt=""> **[Phone Harness: Hermes Agent can now drive your iPhone and Android](https://4pda.to/forum/index.php?showtopic=1123739&view=findpost&p=145502480)** 📱🤖 Your agent now has thumbs. Taps, types, checks its own work on a real phone, no app APIs needed. What could possibly go wrong 💀
-8. <img src="cards/4pda-1123739-333.jpg" width="80" alt=""> **[Hermes Agent v0.22.0 'Threshold': no-key first chat, local llama.cpp, 600 vetted plugins](https://4pda.to/forum/index.php?showtopic=1123739&view=findpost&p=145512028)** 🧙‍♂️ Hermes 0.22 drops: zero-key onboarding, llama.cpp out of the box, 600 vetted plugins. Local gang eating good tonight 🍝
-9. <img src="cards/4pda-1077922-25618.jpg" width="80" alt=""> **[Vecta v0.1.0: open-source Mac app turns PLAUD recorders into fully local AI](https://4pda.to/forum/index.php?showtopic=1077922&view=findpost&p=145518729)** 🎙️ PLAUD without the 300-minute tax. Mac does the AI, recorder just records ✨
-10. <img src="cards/4pda-1077922-25586.jpg" width="80" alt=""> **[REA (Reverse Engineering Anything): MCP server that reverse-engineers a binary and writes a free clone](https://4pda.to/forum/index.php?showtopic=1077922&view=findpost&p=145505557)** 🕵️ Give it a binary, get a FOSS clone back. Lawyers hate this one trick ⚖️🔥
+8. <img src="cards/4pda-1123739-347.jpg" width="80" alt=""> **[GLM-5.3-Flash joins DeepSeek V4.1 Flash as a free model in OpenCode](https://4pda.to/forum/index.php?showtopic=1123739&view=findpost&p=145544806)** 🆓🤖 Two free Flash models in one week. OpenCode is speedrunning customer acquisition, this is the way 🏃
+9. <img src="cards/4pda-1123739-333.jpg" width="80" alt=""> **[Hermes Agent v0.22.0 'Threshold': no-key first chat, local llama.cpp, 600 vetted plugins](https://4pda.to/forum/index.php?showtopic=1123739&view=findpost&p=145512028)** 🧙‍♂️ Hermes 0.22 drops: zero-key onboarding, llama.cpp out of the box, 600 vetted plugins. Local gang eating good tonight 🍝
+10. <img src="cards/4pda-1077922-25618.jpg" width="80" alt=""> **[Vecta v0.1.0: open-source Mac app turns PLAUD recorders into fully local AI](https://4pda.to/forum/index.php?showtopic=1077922&view=findpost&p=145518729)** 🎙️ PLAUD without the 300-minute tax. Mac does the AI, recorder just records ✨
