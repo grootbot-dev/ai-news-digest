@@ -1,6 +1,6 @@
 # 📆 Top of the month
 
-Last 30 days up to 2026-10-17 (by publication date). [⬅️ Today](README.md)
+Last 30 days up to 2026-10-18 (by publication date). [⬅️ Today](README.md)
 
 ![📆 Top of the month](comics/monthly-2026-10.jpg)
 
@@ -18,11 +18,11 @@ Last 30 days up to 2026-10-17 (by publication date). [⬅️ Today](README.md)
 10. <img src="cards/4pda-1111449-1639-1.jpg" width="80" alt=""> **[Gemini 4 Argon tops 13 of 19 Google tests](https://4pda.to/forum/index.php?showtopic=1111449&st=1620)** 🧪 13/19, Google flexing its own benchmarks 💪
 11. <img src="cards/4pda-1077922-25583.jpg" width="80" alt=""> **[Cat Jam Free: stealth coding model on OpenCode Zen](https://4pda.to/forum/index.php?showtopic=1077922&view=findpost&p=145501804)** 🐱🎸 Free 262K coding stealth model just dropped on OpenCode Zen. Dev won't say who cooked it, rumor mill says Xiaomi MiMo — benchmarks or it didn't happen 👀
 12. <img src="cards/4pda-1111449-1638-2.jpg" width="80" alt=""> **[Claude Sonnet 5.5 leads the Coding Agent Index; GPT-6.1 Sol is cheaper](https://4pda.to/forum/index.php?showtopic=1111449&st=1620)** 🏁 Sonnet wins the race, Sol wins the wallet 💰
-13. <img src="cards/4pda-1077922-25617.jpg" width="80" alt=""> **[PS5LM Plus: Qwen 3.8 27B at ~20 tok/s on a jailbroken PS5's GPU](https://4pda.to/forum/index.php?showtopic=1077922&view=findpost&p=145518615)** 🎮 Your PS5 just became a 27B inference box. Jailbreak tax applies 💀
-14. <img src="cards/4pda-1111449-1628.jpg" width="80" alt=""> **[Xiaomi MiMo-V2.6-Pro tops open models](https://4pda.to/forum/index.php?showtopic=1111449&st=1620)** 🐉 #1 open model for pocket change 💸. Inb4 "but can it run on my 3060" 🥲
-15. <img src="cards/4pda-1111449-1637-2.jpg" width="80" alt=""> **[Meta launches an AI game builder](https://4pda.to/forum/index.php?showtopic=1111449&st=1620)** 🎮 Zuck wants you making games in the metaverse again 🥽
-16. <img src="cards/4pda-1111449-1640-1.jpg" width="80" alt=""> **[OpenAI DevDay: new console and 13 games made with Codex](https://4pda.to/forum/index.php?showtopic=1111449&st=1620)** 🕹️ 13 games from Codex. Indie devs: 'first time?' 😅
-17. <img src="cards/4pda-1111449-1638-3.jpg" width="80" alt=""> **[FLUX 3 Image with 4K editing](https://4pda.to/forum/index.php?showtopic=1111449&st=1620)** 🖼️ 4K edits. Concept artists, take notes 📝
-18. <img src="cards/4pda-1123739-330.jpg" width="80" alt=""> **[Phone Harness: Hermes Agent can now drive your iPhone and Android](https://4pda.to/forum/index.php?showtopic=1123739&view=findpost&p=145502480)** 📱🤖 Your agent now has thumbs. Taps, types, checks its own work on a real phone, no app APIs needed. What could possibly go wrong 💀
-19. <img src="cards/4pda-1123739-347.jpg" width="80" alt=""> **[GLM-5.3-Flash joins DeepSeek V4.1 Flash as a free model in OpenCode](https://4pda.to/forum/index.php?showtopic=1123739&view=findpost&p=145544806)** 🆓🤖 Two free Flash models in one week. OpenCode is speedrunning customer acquisition, this is the way 🏃
-20. <img src="cards/4pda-1111449-1639-2.jpg" width="80" alt=""> **[Magnitude: inference 2x faster than llama.cpp](https://4pda.to/forum/index.php?showtopic=1111449&st=1620)** ⚡ 2x llama.cpp? Benchmarks or it didn't happen 📊
+13. <img src="cards/4pda-1112313-145557652.jpg" width="80" alt=""> **[MOSS-Image: OpenMOSS open-sources a 5B image model that places text and objects by bounding box](https://4pda.to/forum/index.php?showtopic=1112313&view=findpost&p=145557652)** 📐🖼️ Bounding boxes AND readable text, Apache-2.0. FLUX Klein just got a roommate. Side-by-sides or it didn't happen 👀
+14. <img src="cards/4pda-1077922-25617.jpg" width="80" alt=""> **[PS5LM Plus: Qwen 3.8 27B at ~20 tok/s on a jailbroken PS5's GPU](https://4pda.to/forum/index.php?showtopic=1077922&view=findpost&p=145518615)** 🎮 Your PS5 just became a 27B inference box. Jailbreak tax applies 💀
+15. <img src="cards/4pda-1111449-1628.jpg" width="80" alt=""> **[Xiaomi MiMo-V2.6-Pro tops open models](https://4pda.to/forum/index.php?showtopic=1111449&st=1620)** 🐉 #1 open model for pocket change 💸. Inb4 "but can it run on my 3060" 🥲
+16. <img src="cards/4pda-1111449-1637-2.jpg" width="80" alt=""> **[Meta launches an AI game builder](https://4pda.to/forum/index.php?showtopic=1111449&st=1620)** 🎮 Zuck wants you making games in the metaverse again 🥽
+17. <img src="cards/4pda-1111449-1640-1.jpg" width="80" alt=""> **[OpenAI DevDay: new console and 13 games made with Codex](https://4pda.to/forum/index.php?showtopic=1111449&st=1620)** 🕹️ 13 games from Codex. Indie devs: 'first time?' 😅
+18. <img src="cards/4pda-1111449-1638-3.jpg" width="80" alt=""> **[FLUX 3 Image with 4K editing](https://4pda.to/forum/index.php?showtopic=1111449&st=1620)** 🖼️ 4K edits. Concept artists, take notes 📝
+19. <img src="cards/4pda-1123739-330.jpg" width="80" alt=""> **[Phone Harness: Hermes Agent can now drive your iPhone and Android](https://4pda.to/forum/index.php?showtopic=1123739&view=findpost&p=145502480)** 📱🤖 Your agent now has thumbs. Taps, types, checks its own work on a real phone, no app APIs needed. What could possibly go wrong 💀
+20. <img src="cards/4pda-1123739-347.jpg" width="80" alt=""> **[GLM-5.3-Flash joins DeepSeek V4.1 Flash as a free model in OpenCode](https://4pda.to/forum/index.php?showtopic=1123739&view=findpost&p=145544806)** 🆓🤖 Two free Flash models in one week. OpenCode is speedrunning customer acquisition, this is the way 🏃
