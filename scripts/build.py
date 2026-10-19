@@ -33,7 +33,7 @@ for f in glob.glob(os.path.join(R,"comics","*.jpg")): shutil.copy2(f,os.path.joi
 os.makedirs(os.path.join(D,"cards"),exist_ok=True)
 for f in glob.glob(os.path.join(R,"cards","*.jpg")): shutil.copy2(f,os.path.join(D,"cards"))
 open(os.path.join(D,".nojekyll"),"w").close()
-BASE="https://submitgame.github.io/ai-news-digest/"
+BASE="https://grootbot-dev.github.io/ai-news-digest/"
 E=html.escape
 def comic_for(pat):
   c=sorted(glob.glob(os.path.join(R,"comics",pat))); return os.path.basename(c[-1]) if c else None
@@ -58,7 +58,7 @@ def page(path,title,sub,img,xs,mascot_txt,pre):
 <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Bangers&family=Comic+Neue:wght@400;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="{pre}style.css">{MODEJS}</head>
 <body><header><h1><a href="{pre}index.html">🤖 AI News Digest 💥</a></h1><nav>{nav}{toggle}</nav></header><main>
 <section class="hero"><h2>{E(title)}</h2><p class="sub">{E(sub)}</p>{f'<p class="mascot">🎭 Mascot of the day: <b>{E(mascot_txt)}</b></p>' if mascot_txt else ''}{f'<img class="comic" src="{pre}comics/{img}" alt="{E(title)} comic">' if img else ''}</section>
-{f'<section class="grid comic-only">{grid}</section>' if grid else ''}<section class="cards{' text-only' if grid else ''}">{body}</section></main><footer>From <a href="https://4pda.to/forum/index.php?showforum=1240">4PDA's AI forum</a> with r/LocalLLaMA energy 🦾 · updated daily 9:17 AM (UTC+7) · <a href="https://github.com/SubmitGame/ai-news-digest">GitHub</a></footer></body></html>'''
+{f'<section class="grid comic-only">{grid}</section>' if grid else ''}<section class="cards{' text-only' if grid else ''}">{body}</section></main><footer>From <a href="https://4pda.to/forum/index.php?showforum=1240">4PDA's AI forum</a> with r/LocalLLaMA energy 🦾 · updated daily 9:17 AM (UTC+7) · <a href="https://github.com/grootbot-dev/ai-news-digest">GitHub</a></footer></body></html>'''
   open(os.path.join(D,path),"w",encoding="utf-8").write(doc)
 page("index.html",f"Today · {today}","Today's AI news, only the good stuff 🔥",comic_for(f"{today}-*.jpg"),t,mascot,"")
 page("weekly.html","Week: top of the week",f"Top 10 from the last 7 days up to {today}",comic_for("weekly-*.jpg"),win(7,10),None,"")
