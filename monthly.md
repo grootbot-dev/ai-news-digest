@@ -1,6 +1,6 @@
 # 📆 Top of the month
 
-Last 30 days up to 2026-10-19 (by publication date). [⬅️ Today](README.md)
+Last 30 days up to 2026-10-21 (by publication date). [⬅️ Today](README.md)
 
 ![📆 Top of the month](comics/monthly-2026-10.jpg)
 
